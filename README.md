@@ -1,0 +1,2 @@
+# YOLO-ViolenceDetection
+VioLens_基于YOLO11的校园暴力预警系统
